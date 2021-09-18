@@ -1,2 +1,2 @@
 # autotweet
-make autotweet with pyautogui
+make autotweet with pyautogui.
